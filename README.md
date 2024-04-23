@@ -1,0 +1,2 @@
+# satranc
+js ile yapildi
